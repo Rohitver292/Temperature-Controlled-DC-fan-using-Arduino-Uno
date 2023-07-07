@@ -5,3 +5,4 @@ In this arduino based project, we are going to build a temperature-controlled fa
 * 2.LM35
 * 3.LCD 16x2
 * 4.DC Motor With Blade
+
