@@ -6,3 +6,4 @@ In this arduino based project, we are going to build a temperature-controlled fa
 * 3.LCD 16x2
 * 4.DC Motor With Blade
 
+![Circuit-Diagram-of-Temperature-Based-Fan-Speed-Controller-using-Arduino-and-DHT-11](https://github.com/Rohitver292/Temperature-Controlled-DC-fan-using-Arduino-Uno/assets/121481736/957bc5fa-9f0c-4ed6-b391-b5e7509bb245)
